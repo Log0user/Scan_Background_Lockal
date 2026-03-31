@@ -1,0 +1,16 @@
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\bin\Debug\net10.0-windows\Scan_Background.exe
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\bin\Debug\net10.0-windows\Scan_Background.deps.json
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\bin\Debug\net10.0-windows\Scan_Background.runtimeconfig.json
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\bin\Debug\net10.0-windows\Scan_Background.dll
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\bin\Debug\net10.0-windows\Scan_Background.pdb
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\obj\Debug\net10.0-windows\Scan_Background.Form1.resources
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\obj\Debug\net10.0-windows\Scan_Background.csproj.GenerateResource.cache
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\obj\Debug\net10.0-windows\Scan_Background.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\obj\Debug\net10.0-windows\Scan_Background.AssemblyInfoInputs.cache
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\obj\Debug\net10.0-windows\Scan_Background.AssemblyInfo.cs
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\obj\Debug\net10.0-windows\Scan_Background.csproj.CoreCompileInputs.cache
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\obj\Debug\net10.0-windows\Scan_Background.dll
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\obj\Debug\net10.0-windows\refint\Scan_Background.dll
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\obj\Debug\net10.0-windows\Scan_Background.pdb
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\obj\Debug\net10.0-windows\Scan_Background.genruntimeconfig.cache
+C:\Users\Win-Print\source\repos\Scan_Background\Scan_Background\obj\Debug\net10.0-windows\ref\Scan_Background.dll
